@@ -31,6 +31,7 @@
 	<string name="spec_app_quickpass">QuickPass (China UnionPay)</string>
 	<string name="spec_app_octopus_hk">Octopus Card (Hong Kong)</string>
 	<string name="spec_app_changantong">Changan Tong</string>
+	<string name="spec_app_dongguantong">Dongguan Tong</string>
 	<string name="spec_app_wuhantong">Wuhan City Smart Card</string>
 	<string name="spec_app_beijing">Beijing Municipal Card</string>
 	<string name="spec_app_shanghai">Shanghai Card</string>

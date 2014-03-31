@@ -28,6 +28,7 @@
     <string name="spec_app_quickpass">银联闪付卡</string>
     <string name="spec_app_octopus_hk">香港八达通</string>
     <string name="spec_app_changantong">长安通</string>
+	<string name="spec_app_dongguantong">东莞通</string>
     <string name="spec_app_wuhantong">武汉城市一卡通</string>
     <string name="spec_app_beijing">北京市政交通卡</string>
     <string name="spec_app_shanghai">上海公交卡</string>
