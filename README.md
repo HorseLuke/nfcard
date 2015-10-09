@@ -1,6 +1,26 @@
 NFCard
 ======
-[ENGLISH]
+
+# NOTICE
+
+Origin Author @sinpo Has been moved to Github.
+
+Because of this, this fork would not maintain.
+
+Please visit his repo: https://github.com/sinpolib/nfcard
+
+
+# 通告
+
+原作者@sinpo 已经迁移到Github。
+
+因此本fork不再维护。
+
+请访问他的repo：https://github.com/sinpolib/nfcard
+
+====
+
+# ENGLISH
 
 A fork from NFCard (Android application) on Google Code.
 https://code.google.com/p/nfcard/
@@ -11,7 +31,7 @@ Origin Code license: GNU GPL v3 (http://www.gnu.org/licenses/gpl.html )
 
 Code license in this repo: GNU GPL v3 (The same as Origin Code license)
 
-[中文]
+# 中文
 
 该库是由@sinpo 在Google Code上建立的同名NFCard项目（安卓手机应用）复制而来。源代码见：https://code.google.com/p/nfcard/
 
